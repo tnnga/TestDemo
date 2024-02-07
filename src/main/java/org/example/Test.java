@@ -6,5 +6,6 @@ public class Test {
     public static void Test1(){
         System.out.println("Nguyen Thi Thuy Nga");
         System.out.println("Giang Vu Hoang Tuan");
+        System.out.println("Nguyen Viet Khoi");
     }
 }
