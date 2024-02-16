@@ -11,6 +11,7 @@ public class Test {
         System.out.println("Vo Tran Duc Khoi");
 
         System.out.println("Happy Birthday Thuy Nga");
+        System.out.println("Happy birthday to me");
 
     }
 }
