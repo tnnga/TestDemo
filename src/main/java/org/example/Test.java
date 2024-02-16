@@ -9,5 +9,8 @@ public class Test {
         System.out.println("Nguyen Viet Khoi");
         System.out.println("Le Cong Dung");
         System.out.println("Vo Tran Duc Khoi");
+
+        System.out.println("Happy Birthday Thuy Nga");
+
     }
 }
