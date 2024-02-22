@@ -13,5 +13,7 @@ public class Test {
         System.out.println("Happy Birthday Thuy Nga");
         System.out.println("Happy birthday to me");
 
+        System.out.println("Pipeline is okay");
+
     }
 }
