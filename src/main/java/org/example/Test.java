@@ -12,5 +12,7 @@ public class Test {
         System.out.println("Add new line");
 
         System.out.println("Nguyen Thi Thuy Nga add one line at 5:27");
+        System.out.println("Nguyen Thi Thuy Nga add one line at 5:30");
+
     }
 }
